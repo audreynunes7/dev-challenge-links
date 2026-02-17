@@ -13,10 +13,11 @@ Atenção: Nem todos os sites foram testados.
 
 ### 📍 Índice
 * [Algoritmos e Lógica de Programação](#-algoritmos-e-lógica-de-programação)
-* [Front-end e CSS](#-front-end-e-css)
+* [Linguagens variadas](#-linguagens-variadas)
 * [Gamificação](#-gamificação)
 * [Dados e SQL](#-dados-e-sql)
 * [Segurança e Hacking](#-segurança-e-hacking)
+* [Outros](#outros)
 
 ## 🧠 Algoritmos e Lógica de Programação
 - [The Huxley](https://www.thehuxley.com)🟢
@@ -29,13 +30,20 @@ Atenção: Nem todos os sites foram testados.
 - [Codewars](https://www.codewars.com) 🟡
 - [Exercism](https://exercism.org) 🟢
 
-## 🎨 Front-end e CSS
+## 🎨 Linguagens variadas
 - [Frontend Mentor](https://frontendmentor.io) 🟡
 - [CSS Battle](https://cssbattle.dev) 🟡
 - [Ace FrontEnd](https://www.acefrontend.com)🟡
 - [DevChallenges](https://devchallenges.io)🟢
 - [JS Challenger](https://www.jschallenger.com)🟢
 - [TypeHero](https://typehero.dev)🟢
+- [W3 Schools](https://www.w3schools.com)🟢
+- [Codecademy](https://www.codecademy.com)🟢
+- [FreeCodeCamp](https://www.freecodecamp.org)🟢
+- [React](https://react.dev)🟢
+- [Learn Python](https://learnpython.org) (Outras linguagens no menu)🟢
+- [Solo Learn](https://www.sololearn.com/pt/)🟢
+- [PHP](https://www.php.net)🟢
 
 ## 🎮 Gamificação
 (Aprenda Jogando)
@@ -49,7 +57,13 @@ Atenção: Nem todos os sites foram testados.
 - [Kaggle](https://www.kaggle.com) 🟢
 - [Mode SQL Tutorial](https://mode.com/sql-tutorial)🟢
 - [Select Star SQL](https://selectstarsql.com) 🟢
+- [SQL Bolt](https://sqlbolt.com)🟢
 
 ## 🔒 Segurança e Hacking
 - [Hack The Box](https://www.hackthebox.com) 🟡
 - [OverTheWire](https://overthewire.org/wargames) 🟢
+- [Try Hack Me](https://tryhackme.com)🟢
+ 
+## Outros
+- [Git](https://learngitbranching.js.org/?locale=pt_BR) 🟢
+- [AWS](https://skillbuilder.aws)🟢
